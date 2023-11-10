@@ -1,0 +1,12 @@
+{
+  "name": "quiz-fatos-historicos",
+  "version": "1.0.0",
+  "description": "Quiz utilizando fake-api de perguntas de fatos históricos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
