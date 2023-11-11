@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "quiz-fatos-historicos",
   "version": "1.0.0",
   "description": "Quiz utilizando fake-api de perguntas de fatos históricos",
@@ -8,5 +9,8 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
